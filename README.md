@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+# Otaku-Oasis-Chat-Applications
+Step into the anime realm with our chat app! Crafted using HTML, CSS, and JavaScript with React.js for dynamic UIs and Node.js for backend strength. Enhanced with Chat Engine API for interactive messaging and Axios for efficient data handling. Hosted on Netlify for seamless accessibility
+
+Enjoy Chatting with fellow Weebs : https://otakuoasis-chat-app.netlify.app/
+>>>>>>> 31b0b9250d1e731e0b6ba8ed7780a8bdcdbb9a0c
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,5 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Otaku-Oasis-Chat-Applications
 Step into the anime realm with our chat app! Crafted using HTML, CSS, and JavaScript with React.js for dynamic UIs and Node.js for backend strength. Enhanced with Chat Engine API for interactive messaging and Axios for efficient data handling. Hosted on Netlify for seamless accessibility
 
-# Enjoy Chatting with fellow Weebs : https://otakuoasis-chat-app.netlify.app/
+Enjoy Chatting with fellow Weebs : https://otakuoasis-chat-app.netlify.app/
 >>>>>>> 31b0b9250d1e731e0b6ba8ed7780a8bdcdbb9a0c
